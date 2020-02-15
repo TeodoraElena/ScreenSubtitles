@@ -1,0 +1,11 @@
+C:\Users\TEO\source\repos\ScreenSubtitles\ScreenSubtitles\bin\Debug\ScreenSubtitles.exe.config
+C:\Users\TEO\source\repos\ScreenSubtitles\ScreenSubtitles\bin\Debug\ScreenSubtitles.exe
+C:\Users\TEO\source\repos\ScreenSubtitles\ScreenSubtitles\bin\Debug\ScreenSubtitles.pdb
+C:\Users\TEO\source\repos\ScreenSubtitles\ScreenSubtitles\obj\Debug\ScreenSubtitles.Properties.Resources.resources
+C:\Users\TEO\source\repos\ScreenSubtitles\ScreenSubtitles\obj\Debug\ScreenSubtitles.csproj.GenerateResource.Cache
+C:\Users\TEO\source\repos\ScreenSubtitles\ScreenSubtitles\obj\Debug\ScreenSubtitles.csproj.CoreCompileInputs.cache
+C:\Users\TEO\source\repos\ScreenSubtitles\ScreenSubtitles\obj\Debug\ScreenSubtitles.exe
+C:\Users\TEO\source\repos\ScreenSubtitles\ScreenSubtitles\obj\Debug\ScreenSubtitles.pdb
+C:\Users\TEO\source\repos\ScreenSubtitles\ScreenSubtitles\obj\Debug\ScreenSubtitles.CustomHelperForm.resources
+C:\Users\TEO\source\repos\ScreenSubtitles\ScreenSubtitles\obj\Debug\ScreenSubtitles.MainForm.resources
+C:\Users\TEO\source\repos\ScreenSubtitles\ScreenSubtitles\obj\Debug\ScreenSubtitles.CustomTransparentForm.resources
